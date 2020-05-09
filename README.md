@@ -1,5 +1,5 @@
 # TravelAgency
-TravelAgency is a Online Shop Web Application builded by Codeigniter 3 PHP Framework
+TravelAgency is an Online Shop Web Application builded by Codeigniter 3 PHP Framework
 
 # Crafted With :
 <ul>
